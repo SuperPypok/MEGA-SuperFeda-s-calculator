@@ -48,5 +48,5 @@ aboba_lox = input()
 if aboba_lox == "Нет" or aboba_lox == "нет":
     break
 ```
-
+----
 ##### I don't know English well, so I used a translator to translate this text.
