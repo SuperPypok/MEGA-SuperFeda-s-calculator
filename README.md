@@ -1,4 +1,4 @@
-# MEGA SuperFeda's calculator
+# MEGA SuperFeda's calculator 228
 
 <details>
 <summary>English translate</summary> 
