@@ -4,8 +4,7 @@ aboba_lox = "hgdf"
 current_lang, encoding = locale.getdefaultlocale()
 
 #print("Select language RU or EN")
-#lang = input()
-#lang = lang.upper()
+#lang = input().upper()
 
 if current_lang == "ru_RU":
     while aboba_lox != "Да" or aboba_lox != "да":
